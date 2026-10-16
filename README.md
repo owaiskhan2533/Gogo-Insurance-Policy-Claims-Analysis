@@ -1,7 +1,6 @@
-# Gogo-Insurance-Policy-Claims-Analysis
+# Gogo Insurance Pvt. Ltd. - Policy & Claims Analytics Dashboard 
 An interactive Power BI dashboard for Gogo Insurance Pvt. Ltd. analyzing premium distribution, policy active/inactive status, claim settlement analysis, and customer demographics.
 
-# Gogo Insurance Pvt. Ltd. - Policy & Claims Analytics Dashboard 
 
 ##  Project Overview
 This **Power BI Analytics Dashboard** provides key business insights for **Gogo Insurance Pvt. Ltd.** by tracking policy sales, claim distributions, customer demographics, and overall financial metrics. It helps management monitor revenue generation via premiums, evaluate policy retention, and optimize claim settlement processes.
