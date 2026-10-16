@@ -38,7 +38,8 @@ This **Power BI Analytics Dashboard** provides key business insights for **Gogo 
 
 ## Dashboard Preview
 
-![Gogo Insurance Dashboard](sales_dashboard.png)
+![Gogo Insurance Dashboard].
+<a href="http://github.com/owaiskhan2533/Gogo-Insurance-Policy-Claims-Analysis/blob/main/sales%20dashboard.png">GoGo Store</a>
 
 ---
 
